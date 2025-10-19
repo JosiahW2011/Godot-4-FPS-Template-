@@ -1,3 +1,4 @@
+! IGNORE THIS README IF YOU ALREADY KNOW HOW TO USE GODOT !
 This template is for anyone who's using Godot. It's got the main functions:
 - Head Rotation
 - W,A,S,D Movement
