@@ -1,0 +1,8 @@
+========================= NOTE ========================
+The CharacterBody3d.cs file is an alternative
+to the PlayerMoveScript.gd file. If you know
+how to use Godot .NET and have already set it up,
+you can go ahead and use the .CS file.
+
+If you're just a beginner, then watch a tutorial before
+jumping in!
