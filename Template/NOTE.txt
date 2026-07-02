@@ -6,3 +6,11 @@ you can go ahead and use the .CS file.
 
 If you're just a beginner, then watch a tutorial before
 jumping in!
+
+Not using CharacterBody3d.cs? Don't worry! If
+you're not using it (at all in your project),
+you can safely delete it in Godot, or just delete
+these files:
+
+- CharacterBody3d.cs
+- CharacterBody3d.cs.uid
